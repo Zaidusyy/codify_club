@@ -1,0 +1,6 @@
+{
+  "appTitle": "codify_club",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
